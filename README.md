@@ -1,3 +1,10 @@
+![alt text](https://github.com/kemojal/furniture-App/blob/master/misc/g1.gif "gif of the app")
+
+
+![alt text](https://github.com/kemojal/furniture-App/blob/master/misc/g2.gif "gif of the app")
+
+
+
 # Furniture App with elegant CustomButtomSheet
 
 Is a cross platform ( iOS & Android ) mobile app build using Flutter framework. 
