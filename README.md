@@ -1,4 +1,4 @@
-# modern_modal_interaction
+# Furniture App with elegant CustomButtomSheet
 
 Is a cross platform ( iOS & Android ) mobile app build using Flutter framework. 
 
